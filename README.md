@@ -1,4 +1,4 @@
-# nativescript-statusbar
+# nativescript-plugin-statusbar
 StatusBar plugin Android platform
 
 > This plugin work currently just with Android Platform
